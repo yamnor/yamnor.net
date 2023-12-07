@@ -20,4 +20,4 @@ My passion is also teaching, education, and writing to share the joy of chemistr
 - **facebook** / [yamnor](https://www.facebook.com/yamnor)
 - **scrapbox** / [yamnor](https://scrapbox.io/yamnor/)
 
-[(edit)](https://github.com/yamnor/yamnor.net/edit/main/README.md)
+- [edit](https://github.com/yamnor/yamnor.net/edit/main/README.md)
